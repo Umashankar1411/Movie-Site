@@ -1,6 +1,6 @@
 # About
 DUMPit is an exploit for SHAREit mobile app abusing two recently discovered vulnerabilities affecting SHAREit Android application <= v 4.0.38. The first one allows an attacker to bypass SHAREit device authentication mechanism, and the other one enables the authenticated attacker to download arbitrary files from the user’s device. Both vulnerabilities were reported to the vendor and patches have been released.
-
+#created by umashankar
 #Open Source
 Its open source to use !!! Keep enjoying and Have Fun!!
 
