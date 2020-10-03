@@ -15,7 +15,7 @@ To launch the exploit server with GUI (Tested on windows,linux)
 ```bash
 python server.py
 ```
-
+#Created by umashankar
 To launch the autopwn module (Works on linux only)
 ```bash
 python autopwn.py
